@@ -1,0 +1,1 @@
+Sửa COM PORT trong bat file để nạp cho board
